@@ -1,4 +1,4 @@
-# Hello World with Vanilla JS
+# Hello World with Vanilla JS in Guideline Class
 
 > 🇪🇸 [Spanish version of this readme is available](./README.es.md).
 
@@ -8,18 +8,15 @@ Start coding a JS/HTML/CSS website in 30 seconds by opening this template using 
 
 Install the packages by typing: `npm install`.
 
-
-### How do I run my website to see live changes?  
-
+### How do I run my website to see live changes?
 
 Type on the command line `$ npm run start` and type localhost on the browser.
 
-### Where do I write my code?  
+### Where do I write my code?
 
 It depends on the language, but you have `./src/app.js`, `./src/style.css` and `./src/index.html` respectively, you can add new `.html` as you please, just make sure to import it on the `app.js`.
 
 > Note: remember that the JS workflow starts inside `window.onload`.
-
 
 ## Troubleshooting
 
@@ -44,7 +41,7 @@ This boilerplate is 100% compatible with the free GitHub pages hosting. Publish 
 $ npm run deploy
 ```
 
-Very easy and in just one step!  Push to your __main__ branch and use the free hosting that comes with [GitHub pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages), the project is ready to be published. Remember to choose to run the Github Page from your main branch.
+Very easy and in just one step! Push to your **main** branch and use the free hosting that comes with [GitHub pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages), the project is ready to be published. Remember to choose to run the Github Page from your main branch.
 
 ### Thank you
 
